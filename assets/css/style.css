@@ -4,7 +4,21 @@ body {
     
 }
 
-.container {
-    background-color: beige;
+#target {
+    font-size: 22px;
+    color: purple;
+    background-color: green;
+    width: 180px;
+    height: 80px;
 }
+
+h1 {
+    color:white;
+    background-color:orange;
+    text-align: center;
+    margin: auto;
+}
+#container {
+    background-color: beige;
+    color: green;
 }
