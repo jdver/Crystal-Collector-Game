@@ -6,18 +6,39 @@ body {
 
 #target {
     font-size: 22px;
-    color: purple;
-    width: 180px;
-    height: 80px;
+    color: black;
+    width: 90px;
+    height: 60px;
+    text-align: center;
 }
 
 h1 {
     color:white;
-    background-color:orange;
     text-align: center;
     margin: auto;
 }
-#container {
-    background-color: beige;
-    color: green;
+
+.container {
+    background-color: #eb5e5e;
+    color: white;
+}
+
+#score {
+    font-size: 16px;
+    color: black;
+    width: 200px;
+    height: 60px;
+    text-align: center;
+}
+
+.jumbotron {
+    background-color: #ed5384;
+}
+
+#scoretotal {
+    font-size: 20px;
+    color: #4f5059;
+    width: 200px;
+    height: 126px;
+    background-color: white;
 }
